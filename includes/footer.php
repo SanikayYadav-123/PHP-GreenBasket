@@ -1,0 +1,1 @@
+</main><footer><strong>GreenBasket</strong><p>Fresh groceries. Simple shopping.</p><p>© 2026 GreenBasket</p></footer><script src="assets/js/script.js"></script></body></html>

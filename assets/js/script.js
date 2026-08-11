@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('.btn').forEach(b=>b.addEventListener('click',()=>{b.style.transform='scale(.98)';setTimeout(()=>b.style.transform='',120)}));});
