@@ -277,3 +277,7 @@ greenbasket/
 - Order status tracking
 - HTTPS with SSL
 - User profile management
+
+# Output
+
+![](SS.png)
